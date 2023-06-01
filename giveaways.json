@@ -1,0 +1,52 @@
+{
+    "1109571664431304734": {
+        "prize": "2M Owo",
+        "host": 1069332033928708206,
+        "winners": 1,
+        "end_time": 1684648871,
+        "channel_id": 1109097758415134798,
+        "button_id": "\u2661\ufe52commands",
+        "link": "https://discord.com/channels/1109097757567885362/1109097758415134798/1109571664431304734",
+        "ended": false
+    },
+    "1109592632822345859": {
+        "prize": "New Pfp Dikho",
+        "host": 997578658564800571,
+        "winners": 1,
+        "end_time": 1684621424,
+        "channel_id": 1109097758415134796,
+        "button_id": "\u2661\ufe52chat",
+        "link": "https://discord.com/channels/1109097757567885362/1109097758415134796/1109592632822345859",
+        "ended": false
+    },
+    "1109592724195262585": {
+        "prize": "Russian",
+        "host": 1106953697465991300,
+        "winners": 1,
+        "end_time": 1684617969,
+        "channel_id": 1109097758415134796,
+        "button_id": "\u2661\ufe52chat",
+        "link": "https://discord.com/channels/1109097757567885362/1109097758415134796/1109592724195262585",
+        "ended": true
+    },
+    "1109699620013080586": {
+        "prize": "1M Owo",
+        "host": 1069332033928708206,
+        "winners": 1,
+        "end_time": 1684646989,
+        "channel_id": 1109097758415134798,
+        "button_id": "\u2661\ufe52commands",
+        "link": "https://discord.com/channels/1109097757567885362/1109097758415134798/1109699620013080586",
+        "ended": false
+    },
+    "1109710966918221929": {
+        "prize": "1M Owo",
+        "host": 1069332033928708206,
+        "winners": 1,
+        "end_time": 1684646085,
+        "channel_id": 1109097758415134796,
+        "button_id": "\u2661\ufe52chat",
+        "link": "https://discord.com/channels/1109097757567885362/1109097758415134796/1109710966918221929",
+        "ended": false
+    }
+}
